@@ -1,2 +1,4 @@
 content of C.txt
 change C.txt no.3
+change conent C.txt no.1
+change content C.txt no.2
